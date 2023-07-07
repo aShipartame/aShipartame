@@ -75,6 +75,12 @@ layout: default
     <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h3>
     {%- include selected_papers.html %}
     {%- endif %}
+
+    <!-- Publications -->
+    {% if page.publications -%}
+    <h3 style="color: inherit;">Publications</h3>
+    {%- include publications.html %}
+    {%- endif %}
   </article>
 
 </div>
