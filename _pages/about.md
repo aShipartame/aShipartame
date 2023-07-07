@@ -16,11 +16,12 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+publications: true
 ---
 
-I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Assoc. Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
+Hi👋! I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Assoc. Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
 
-My recent research interests include metric-based few-shot learning.
+My recent research interests include metric-based few-shot learning, from the difference between different training paradigms to how to unleash the full potential of local representations.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
