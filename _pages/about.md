@@ -1,6 +1,6 @@
 ---
 layout: about-custom
-title: About
+title: Home
 permalink: /
 subtitle: School of Software, Tsinghua University, Beijing, China.
 
