@@ -102,6 +102,15 @@
               {% endfor -%}
               {%- if site.enable_darkmode %}
 
+              <!-- CV -->
+              <li class="nav-item {% if page.url contains site.cv_pdf %}active{% endif %}">
+                <a class="nav-link" href="{{ site.cv_pdf | relative_url }}">{{ site.cv_pdf_title }}
+                  {%- if page.url contains site.cv_pdf -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+
               <!-- Toogle theme mode -->
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">
