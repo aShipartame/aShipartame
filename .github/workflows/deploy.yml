@@ -4,11 +4,9 @@ on:
   push:
     branches:
       - customized
-      - main
   pull_request:
     branches:
       - customized
-      - main
   workflow_dispatch:
 
 permissions:
