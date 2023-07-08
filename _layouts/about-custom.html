@@ -81,6 +81,20 @@ layout: default
     <h3 style="color: inherit;">Publications</h3>
     {%- include publications.html %}
     {%- endif %}
+
+    <!-- Projects -->
+    {% if page.projects -%}
+    <h3 style="color: inherit;">Projects</h3>
+      <div class="projects">
+      {%- assign sorted_projects = site.projects | sort: "importance" -%}
+      <div class="grid">
+        {%- for project in sorted_projects -%}
+          {% include projects_home.html %}
+        {%- endfor %}
+      </div>
+      </div>
+    {%- endif %}
+
   </article>
 
 </div>
