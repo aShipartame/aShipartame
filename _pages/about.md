@@ -17,6 +17,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 publications: true
+projects: true
 ---
 
 Hi👋! I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Assoc. Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
