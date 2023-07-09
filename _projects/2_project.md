@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Multi-Band Vision Perception
+description: Vehicle Mounted Multi-Band Stereo Vision Perception System
 img: assets/img/3.jpg
 importance: 2
 category: work
