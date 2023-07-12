@@ -5,7 +5,7 @@ nav: true
 nav_order: 2
 dropdown: true
 children: 
-    - title: EN
+    - title: English
       permalink: /CV/ShiTang_CV.pdf
     - title: 中文
       permalink: /CV/ShiTang_CV_cn.pdf
