@@ -2,15 +2,15 @@
 layout: about-custom
 title: Home
 permalink: /
-subtitle: School of Software, Tsinghua University, Beijing, China.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  # address: >
-  #   <p>+86-139-8005-5122</p>
-  #   <p>Tsinghua University, Beijing, China</p>
+  address: >
+    School of Software, Tsinghua University<br/>
+    Email: <a href="mailto:ts21@mails.tsinghua.edu.cn">ts21@mails.tsinghua.edu.cn</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
