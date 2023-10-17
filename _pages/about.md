@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic2.JPG
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     School of Software, Tsinghua University<br/>
     Email: <a href="mailto:ts21@mails.tsinghua.edu.cn">ts21@mails.tsinghua.edu.cn</a>
