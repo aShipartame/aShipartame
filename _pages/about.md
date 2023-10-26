@@ -20,7 +20,7 @@ publications: true
 projects: true
 ---
 
-Hi👋! I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Assoc. Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
+Hi👋! I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
 
 My recent research interests include metric-based few-shot learning, from the difference between different training paradigms to how to unleash the full potential of local representations.
 
