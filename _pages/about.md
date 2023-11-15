@@ -22,7 +22,9 @@ projects: true
 
 Hi👋! I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
 
-My recent research interests include metric-based few-shot learning, from the difference between different training paradigms to how to unleash the full potential of local representations.
+I am interested in developing technologies that allow the rapid establishment of models with lower data requirements for various industries.
+Currently, my research focuses on metric-based few-shot learning, from differences between various training paradigms and how to unlock the full potential of local representations.
+Additionally, I am particularly intrigued by the ability and prospects of meta-learning based on parameter generation for handling complex task spaces.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
