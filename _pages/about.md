@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     School of Software, Tsinghua University<br/>
-    Email: <a href="mailto:ts21@mails.tsinghua.edu.cn">ts21@mails.tsinghua.edu.cn</a>
+    Email: <a href="mailto:ts21@tsinghua.org.cn">ts21@tsinghua.org.cn</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +20,7 @@ publications: true
 projects: true
 ---
 
-Hi👋! I am currently an M.S. student at Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm). I received my B.E. degree from Dalian University of Technology under the supervision of [Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
+Hi👋! I am Shi Tang. I recently received my master's degree from Tsinghua University, advised by [Prof. Guiming Luo](https://www.thss.tsinghua.edu.cn/en/faculty/guimingluo.htm)(may not be accessable anymore since he has just retired recently). Before that, I got my B.E. degree from Dalian University of Technology under the supervision of [Prof. Xinchen Ye](http://faculty.dlut.edu.cn/yexinchen/en/index.htm).
 
 I am interested in developing technologies that allow rapid establishment of models with lower data requirements.
 Currently, my research focuses on metric-based few-shot learning, from differences between various training paradigms and how to unlock the full potential of local representations.
